@@ -7,10 +7,10 @@ document.addEventListener('DOMContentLoaded', function() {
             description: "You're Pretty Sweet"
         },
         { 
-            name: "Letter for Emmy", 
-            url: "https://fiirt.github.io/letter", 
-            img: "https://cdn.discordapp.com/attachments/614217380121280547/1175592343592779897/image.png",
-            description: "A letter with a surprise when u open it."
+            name: "Hello Kitty", 
+            url: "https://fiirt.github.io/hellokitty/", 
+            img: "https://cdn.discordapp.com/attachments/614217380121280547/1175830096641277962/image.png",
+            description: "A gift I made you, that you'll receive from Hello Kitty."
         },
         { 
             name: "Finding Kamen (An Emmy Adventure)", 
