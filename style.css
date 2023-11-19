@@ -1,0 +1,53 @@
+* {
+    cursor: url('https://cdn.discordapp.com/attachments/614217380121280547/1175488666081177711/ezgif.com-gif-maker.gif'), auto !important;
+}
+
+
+body {
+    background-color: pink; /* Light pink background */
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    cursor: url('https://cdn.discordapp.com/attachments/614217380121280547/1175488666081177711/ezgif.com-gif-maker.gif'), auto;
+
+}
+
+a, button, .clickable-element {
+    cursor: url('https://cdn.discordapp.com/attachments/614217380121280547/1175488666081177711/ezgif.com-gif-maker.gif'), auto !important;
+}
+
+#main-container {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+#gift-list {
+    margin-top: 20px;
+}
+
+.gift-item {
+    background-color: #ffe0f0; /* Lighter pink for items */
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: transform 0.2s;
+
+}
+
+.gift-item:hover {
+    cursor: url('https://cdn.discordapp.com/attachments/614217380121280547/1175488666081177711/ezgif.com-gif-maker.gif'), auto !important;
+    transform: scale(1.05);
+}
+
+.gift-item img {
+    max-width: 200px; /* Adjust this value as needed */
+    height: auto; /* This ensures the image maintains its aspect ratio */
+    display: block; /* This makes the image a block element */
+    margin: 0 auto; /* This centers the image within the gift item */
+    padding: 10px 0; /* Adds some space above and below the image */
+}
+
+
